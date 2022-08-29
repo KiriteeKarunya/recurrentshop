@@ -1,4 +1,4 @@
-from keras.backend import tensorflow_backend as K
+import keras.backend as K
 import tensorflow as tf
 
 
